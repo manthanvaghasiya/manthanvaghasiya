@@ -24,4 +24,4 @@ I build fast, scalable web applications, custom admin dashboards, and workflow a
 
 ### 📫 Let's Connect
 - **Email:** manthanvaghasiya@webiox.tech
-- **LinkedIn:** [Manthan Vaghasiya](https://www.linkedin.com/) *(replace with your LinkedIn URL)*
+- **LinkedIn:** [Manthan Vaghasiya](https://www.linkedin.com/in/manthan-vaghasiya-b213a8267 ) *(replace with your LinkedIn URL)*
